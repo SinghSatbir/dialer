@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: BkUXjSglaW7hqaZDrE6RKPo8pm0=
+
+Name: classes.dex
+SHA1-Digest: Yb9i094xp6LJbiY7x1/ug4XUPJw=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: BWRAoPVos58zRwxvNCq1nyPEM9U=
+
+Name: resources.arsc
+SHA1-Digest: XnjsMIKNEhV754lZhBfW+A4QQYE=
+
+Name: res/layout/main.xml
+SHA1-Digest: abkHSBMrpXElNXbTMfT7egC44Ic=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: xbwUHM4UDreBSI4KsZnWdck0D7g=
+
